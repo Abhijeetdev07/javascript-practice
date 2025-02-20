@@ -1,4 +1,4 @@
-const str = "Hello Worldq";
+const str = "Abhijeet";
 
 function alternateEncrypt(str) {
     let result = '';
