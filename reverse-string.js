@@ -1,5 +1,5 @@
 
-let string = "ABHIJEET";
+let string = "teejihba";
 
 function reverseString(str) {
     let reversed = "";
