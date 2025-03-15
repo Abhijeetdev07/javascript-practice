@@ -4,4 +4,4 @@ function printTable(n){
     }
 }
 
-printTable(9552301742);
+printTable(25);
